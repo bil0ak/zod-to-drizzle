@@ -1,6 +1,6 @@
 {
   "name": "zod-to-drizzle",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create Drizzle ORM tables from Zod schemas",
   "type": "module",
   "module": "./dist/index.js",
